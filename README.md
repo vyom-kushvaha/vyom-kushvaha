@@ -13,7 +13,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-kushvaha\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vyom-kushvaha\&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vyom-kushvaha&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vyom-kushvaha\&theme=react-dark)
 
