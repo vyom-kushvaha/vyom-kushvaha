@@ -1,25 +1,153 @@
-# 💫 About Me:
-👨‍💻 I am a B.Tech IT (First Year) student, focused on building a strong foundation in programming and problem-solving.<br><br>🚀 I have built a Student Management System using C++, where I worked with file handling and object-oriented programming to manage real data. This helped me understand code structure, debugging, and handling practical challenges.<br><br>🌱 Currently, I am exploring Web Development, AI, and Cybersecurity to expand my technical skills.<br><br>🧠 I enjoy solving logical problems and challenges like Sudoku and Rubik’s Cube, which sharpen my thinking and problem-solving approach.<br><br>🤝 I am open to collaborating on beginner-level projects and continuously improving by working on real-world problems.
+<div align="center">
 
+<!-- HEADER BANNER (Spider Crimson Red to Midnight Slate) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D80032,100:1E222A&height=200&section=header&text=Vyom%20Kushvaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20C%2B%2B%20%C2%B7%20Web%20Dev%20%C2%B7%20AI%20%C2%B7%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushvaha_vyom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyom-kushvaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vyomkushvaha@gmail.com) 
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://github.com/vyom-kushvaha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D80032&center=true&vCenter=true&width=650&lines=Building+strong+foundations+in+C%2B%2B+%26+Problem+Solving;Student+Management+System+built+with+C%2B%2B+OOP;Exploring+Web+Development%2C+AI+%26+Cybersecurity;Rubik's+Cube+%26+Sudoku+Enthusiast" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-## 📊 GitHub Statistics
+<br/><br/>
 
-<p align="center">
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/vyom-kushvaha"><img src="https://img.shields.io/badge/LinkedIn-D80032?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vyomkushvaha@gmail.com"><img src="https://img.shields.io/badge/Email-8B0029?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/kushvaha_vyom"><img src="https://img.shields.io/badge/Instagram-EBA4BE?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+<a href="https://github.com/vyom-kushvaha"><img src="https://img.shields.io/badge/GitHub-1E222A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vyom-kushvaha&show_icons=true&theme=github_dark&hide_border=true"/>
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-kushvaha&layout=compact&theme=github_dark&hide_border=true"/>
+<br/>
 
-</p>
+<!-- TERMINAL SIMULATION -->
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=EBA4BE&center=true&vCenter=true&width=700&lines=%24+whoami;vyom_kushvaha+%E2%80%94+B.Tech+IT+Student+%26+Logical+Problem+Solver;%24+cat+status.log;1st+Yr+B.Tech+IT+%7C+Building+core+programming+depth;%24+ps+--currently-building;Student+Management+System+(C%2B%2B)+%C2%B7+Web+Projects;%24 " alt="terminal typing" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vyom-kushvaha&theme=github-dark-blue&hide_border=true"/>
+<br/><br/>
 
-</p>
+<!-- SKILL ICONS MATRIX -->
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,vercel,github,git&theme=dark&perline=10" alt="tech stack icons"/>
 
+<br/><br/>
+
+<!-- QUICK BADGES -->
+![Degree](https://img.shields.io/badge/Degree-B.Tech_IT_(1st_Year)-D80032?style=flat-square&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/Focus-C%2B%2B_%7C_Web_Dev_%7C_AI-7B969E?style=flat-square&labelColor=1a1a2e)
+![Mindset](https://img.shields.io/badge/Mindset-Problem_Solver_%F0%9F%A7%A9-8B0029?style=flat-square&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:1E222A&height=2&width=100%" width="100%"/>
+
+## 💫 About Me
+
+| Section | Details |
+|:---|:---|
+| 🎓 **Education & Background** | First-year **B.Tech IT** student passionate about building a deep foundation in programming, object-oriented software design, and logical problem solving. |
+| 🚀 **Featured Work** | Built a **Student Management System in C++** utilizing Object-Oriented Programming (OOP) principles and persistent file handling to manage real data cleanly. |
+| 🌱 **Currently Exploring** | **Web Development** (HTML5, CSS3, JavaScript), fundamental **Artificial Intelligence** concepts, and **Cybersecurity** fundamentals. |
+| 🤝 **Open to Collaborating** | Beginner-level open-source projects, C++ utilities, or web apps. Always eager to solve real-world problems! |
+| 🧠 **Brain Training** | Sudoku enthusiast & Rubik’s Cube solver—I apply the same algorithmic logic to code structure & debugging! |
+| ⚡ **Fun Fact** | I approach tricky bugs like a Rubik's cube: analyze the state, break down the algorithm step-by-step, and solve it with precision. |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:1E222A&height=2&width=100%" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Student Management System
+Console application built in **C++** implementing Object-Oriented Programming (OOP) and File I/O stream handling for persistent student data management.
+
+`C++` `OOP` `File Handling` `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Modern Web Experiments
+Responsive frontend web templates and interactive projects deployed seamlessly using Vercel.
+
+`HTML5` `CSS3` `JavaScript` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Logic & Algo Sandbox
+Collection of algorithm solutions, data structures implementations, and puzzle-solving logic in C/C++.
+
+`C++` `C` `Algorithms` `Data Structures`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CyberSec & AI Learning Lab
+Hands-on exploratory scripts and notes covering foundational computer security and machine learning concepts.
+
+`Security` `AI Basics` `Python (Coming)`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:1E222A&height=2&width=100%" width="100%"/>
+
+## 💻 Tech Stack
+
+**Languages**
+![C++](https://img.shields.io/badge/c++-D80032?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-8B0029?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Environment**
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:1E222A&height=2&width=100%" width="100%"/>
+
+## 📊 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vyom-kushvaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vyom-kushvaha&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-kushvaha&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+</div>
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=vyom-kushvaha&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>✍️ Random Developer Quote</b></summary>
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<!-- VISITOR COUNTER & FOOTER BANNER -->
+[![](https://visitcount.itsvg.in/api?id=vyom-kushvaha&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E222A,100:D80032&height=120&section=footer" width="100%"/>
+
+</div>
