@@ -3,9 +3,9 @@
 <!-- HEADER BANNER (Spider Crimson Red to Midnight Slate) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D80032,100:1E222A&height=200&section=header&text=Vyom%20Kushvaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20C%2B%2B%20%C2%B7%20Web%20Dev%20%C2%B7%20AI%20%C2%B7%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- FIXED TYPING SVG (Wider container width & proper size prevents text clipping) -->
 <a href="https://github.com/vyom-kushvaha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D80032&center=true&vCenter=true&width=650&lines=Building+strong+foundations+in+C%2B%2B+%26+Problem+Solving;Student+Management+System+built+with+C%2B%2B+OOP;Exploring+Web+Development%2C+AI+%26+Cybersecurity;Rubik's+Cube+%26+Sudoku+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=D80032&center=true&vCenter=true&width=750&lines=Building+strong+foundations+in+C%2B%2B+%26+Problem+Solving;Student+Management+System+built+with+C%2B%2B+OOP;Exploring+Web+Development%2C+AI+%26+Cybersecurity;Rubik's+Cube+%26+Sudoku+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 <!-- TERMINAL SIMULATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=EBA4BE&center=true&vCenter=true&width=700&lines=%24+whoami;vyom_kushvaha+%E2%80%94+B.Tech+IT+Student+%26+Logical+Problem+Solver;%24+cat+status.log;1st+Yr+B.Tech+IT+%7C+Building+core+programming+depth;%24+ps+--currently-building;Student+Management+System+(C%2B%2B)+%C2%B7+Web+Projects;%24 " alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=900&color=EBA4BE&center=true&vCenter=true&width=750&lines=%24+whoami;vyom_kushvaha+%E2%80%94+B.Tech+IT+Student+%26+Logical+Problem+Solver;%24+cat+status.log;1st+Yr+B.Tech+IT+%7C+Building+core+programming+depth;%24+ps+--currently-building;Student+Management+System+(C%2B%2B)+%C2%B7+Web+Projects;%24 " alt="terminal typing" />
 
 <br/><br/>
 
@@ -116,11 +116,17 @@ Hands-on exploratory scripts and notes covering foundational computer security a
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:1E222A&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vyom-kushvaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vyom-kushvaha&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-kushvaha&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+
+<!-- FIXED STAT CARDS (Using reliable mirror shion.dev + demolab.com) -->
+<img src="https://github-readme-stats.shion.dev/api?username=vyom-kushvaha&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=vyom-kushvaha&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vyom-kushvaha&theme=radical&hide_border=true&layout=compact" height="165"/>
+
 </div>
+
 <br/>
 
 ## 🏆 GitHub Trophies
