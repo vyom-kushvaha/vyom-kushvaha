@@ -47,7 +47,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:0B0C16&height=2&width=100%" width="100%"/>
 
-## 🚧 Currently Building & Pinned Repositories
+## 🚧 Currently Building & Featured Projects
 
 <table>
 <tr>
@@ -87,21 +87,6 @@ Hands-on repository documenting security labs, Linux system administration, netw
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- 2x2 PINNED REPOSITORY CARDS -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vyom-kushvaha&repo=GreenForce-SmartKrishi&theme=tokyonight&title_color=D80032&show_owner=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vyom-kushvaha&repo=vyom-portfolio&theme=tokyonight&title_color=D80032&show_owner=false" height="150" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vyom-kushvaha&repo=DSA-Repository&theme=tokyonight&title_color=D80032&show_owner=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vyom-kushvaha&repo=Cybersecurity-Labs&theme=tokyonight&title_color=D80032&show_owner=false" height="150" />
-
-</div>
 
 <br/>
 
@@ -164,17 +149,17 @@ Hands-on repository documenting security labs, Linux system administration, netw
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D80032,100:0B0C16&height=2&width=100%" width="100%"/>
 
-## 🕷️ GitHub Analytics & Metrics
+## 🕷️ GitHub Analytics
 
 <div align="center">
 
-<!-- ROW 1: STATS & LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=vyom-kushvaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=D80032" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-kushvaha&theme=tokyonight&hide_border=true&layout=compact&title_color=D80032" height="165"/>
+<!-- RELIABLE HIGH-AVAILABILITY MIRROR (shion.dev) -->
+<img src="https://github-readme-stats.shion.dev/api?username=vyom-kushvaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=D80032" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vyom-kushvaha&theme=tokyonight&hide_border=true&layout=compact&title_color=D80032" height="165"/>
 
 <br/><br/>
 
-<!-- ROW 2: STREAK STATS -->
+<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com?user=vyom-kushvaha&theme=tokyonight&hide_border=true&ring=D80032&fire=D80032" height="165"/>
 
 </div>
@@ -187,10 +172,7 @@ Hands-on repository documenting security labs, Linux system administration, netw
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyom-kushvaha&theme=tokyo-night&hide_border=true&area=true&color=D80032&line=D80032" width="100%"/>
 
-<!-- LOWLIGHTER GITHUB METRICS DASHBOARD -->
-<img src="https://metrics.lecoq.io/vyom-kushvaha?template=classic&config.timezone=Asia%2FKolkata" width="100%" alt="GitHub Metrics" />
-
-<!-- SNAKE ANIMATION (Generated via Platane/snk GitHub Action) -->
+<!-- SNAKE ANIMATION (Renders automatically once Platane/snk action runs) -->
 <img src="https://raw.githubusercontent.com/vyom-kushvaha/vyom-kushvaha/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
