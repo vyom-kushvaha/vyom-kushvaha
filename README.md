@@ -119,15 +119,26 @@ Hands-on exploratory scripts and notes covering foundational computer security a
 
 <div align="center">
 
-<!-- FIXED STAT CARDS (Using reliable mirror shion.dev + demolab.com) -->
+<!-- ROW 1: STATS & LANGUAGES -->
 <img src="https://github-readme-stats.shion.dev/api?username=vyom-kushvaha&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=vyom-kushvaha&theme=radical&hide_border=true" height="165"/>
-
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vyom-kushvaha&theme=radical&hide_border=true&layout=compact" height="165"/>
+
+<br/><br/>
+
+<!-- ROW 2: STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=vyom-kushvaha&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 <br/>
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vyom-kushvaha&theme=rogue&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
