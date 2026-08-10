@@ -1,5 +1,5 @@
 <div align="center">
-
+.
 <!-- HEADER BANNER (Spider Red to Midnight Black Gradient) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D80032,100:0B0C16&height=200&section=header&text=%F0%9F%94%B7%20Hi%2C%20I'm%20Vyom%20Kushvaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%20with%20curiosity%2C%20consistency%2C%20and%20purpose.&descAlignY=58&descSize=18" width="100%"/>
 
